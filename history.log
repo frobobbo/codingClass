@@ -1,0 +1,100 @@
+    1  python -V
+    2  pip3 install FortniteTrackerAPI
+    3  curl
+    4  curl --request GET https://api.fortnitetracker.com/v1/profile/kbm/UNC_DoubleJ --header "TRN-Api-Key: feeee83b-54d6-42fc-b4c3-f47a5f58f16e"
+    5  curl --request GET https://api.fortnitetracker.com/v1/profile/kbm/UNC_DoubleJ --header "TRN-Api-Key: feeee83b-54d6-42fc-b4c3-f47a5f58f16e" > stats.txt
+    6  sudo raspi-config
+    7  sudo reboot
+    8  sudo i2cdetect -y 1
+    9  sudo apt update
+   10  sudo apt install build-essential python-dev python-pip
+   11  pip install RPi.GPIO
+   12  pip3 install RPi.GPIO
+   13  sudo apt install python-imaging python-smbus
+   14  git
+   15  git clone https://github.com/adafruit/Adafruit_PythonSSD1306.git
+   16  git clone https://github.com/adafruit/Adafruit_Python_SSD1306.git
+   17  cd Adafruit_Python_SSD1306/
+   18  sudo python3 setup.py install
+   19  cd /
+   20  history
+   21  curl --request GET https://api.fortnitetracker.com/v1/profile/kbm/UNC_DoubleJ --header "TRN-Api-Key: feeee83b-54d6-42fc-b4c3-f47a5f58f16e" > stats.txt
+   22  curl --request GET https://api.fortnitetracker.com/v2/profile/kbm/UNC_DoubleJ --header "TRN-Api-Key: feeee83b-54d6-42fc-b4c3-f47a5f58f16e"
+   23  curl --request GET h1tps://api.fortnitetracker.com/v2/profile/kbm/UNC_DoubleJ --header "TRN-Api-Key: feeee83b-54d6-42fc-b4c3-f47a5f58f16e"
+   24  curl --request GET https://api.fortnitetracker.com/v1/profile/all/UNC_DoubleJ --header "TRN-Api-Key: feeee83b-54d6-42fc-b4c3-f47a5f58f16e"
+   25  curl --request GET https://api.fortnitetracker.com/v1/profile/kallUNC_DoubleJ --header "TRN-Api-Key: feeee83b-54d6-42fc-b4c3-f47a5f58f16e" > stats.txt
+   26  curl --request GET https://api.fortnitetracker.com/v1/profile/kall/UNC_DoubleJ --header "TRN-Api-Key: feeee83b-54d6-42fc-b4c3-f47a5f58f16e" > stats.txt
+   27  curl --request GET https://api.fortnitetracker.com/v1/profile/kall/UNC_DoubleJ --header "TRN-Api-Key: feeee83b-54d6-42fc-b4c3-f47a5f58f16e" > /home/pi/stats.txt
+   28  curl --request GET https://api.fortnitetracker.com/v1/profile/all/UNC_DoubleJ --header "TRN-Api-Key: feeee83b-54d6-42fc-b4c3-f47a5f58f16e" > /home/pi/stats.txt
+   29  pip3 install keyboard
+   30  pip3 install pynput
+   31  ls
+   32  cd home
+   33  ls
+   34  cd pi
+   35  ls
+   36  cd Desktop/
+   37  ls
+   38  cd ..
+   39  cd Doc
+   40  cd Documents/
+   41  ls
+   42  cd python/
+   43  ls
+   44  python test.py
+   45  python -V
+   46  pyhon3 -V
+   47  python3 -V
+   48  python3 ./test.py 
+   49  git init
+   50  git add README.md
+   51  echo "# ls
+   52  ls
+   53  cd Documents/
+   54  ls
+   55  cd python/
+   56  ls
+   57  git init
+   58  git add fortniteClass.py 
+   59  git add fortnite.py 
+   60  git add minecraft.py 
+   61  git add test.py 
+   62  git commit -m "first commit"
+   63  git config --global user.email "johnsobd@gmail.com"
+   64  git config --global user.name "frobobbo"
+   65  git commit -m "first commit"
+   66  git branch -M main
+   67  git remote add origin https://github.com/frobobbo/codingClass.git
+   68  git push -u origin main
+   69  cd ..
+   70  wget
+   71  wget https://s3.amazoneaws.com/assets.minecraft.net/pi/minecraft-pi-0.1.1.tar.gz
+   72  ld
+   73  ls
+   74  tar -zxvf minecraft-pi-0.1.1.tar.gz 
+   75  ls
+   76  wget https://s3.amazonaws.com/assets.minecraft.net/pi/minecraft-pi-0.1.1.tar.gz
+   77  tar -zxvf minecraft-pi-0.1.1.tar.gz 
+   78  ls
+   79  cd mcpi/
+   80  ls
+   81  sudo raspi-config
+   82  ls
+   83  cd Documents/
+   84  ls
+   85  cd python/
+   86  ls
+   87  python3 test.py 
+   88  ls
+   89  cd Documents/
+   90  ls
+   91  cd python/
+   92  ls
+   93  ls -l
+   94  history
+   95  ls
+   96  git add minecraft.py 
+   97  get commit -m "Added Minecraft"
+   98  git commit -m "Added Minecraft"
+   99  git push -u origin main
+  100  history > history.log
